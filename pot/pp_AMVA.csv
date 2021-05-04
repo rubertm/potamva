@@ -1,0 +1,186 @@
+﻿OBJECTID;ID;ID2;Municipio;NOMBRE;CODIGO;DensBase;FUENTE;AREA_ha;N_VIVIENDA;ANO;2020;2030;2040;2050;Circuito1;Circuito2;Circuito3;Circuito4;Circuito5
+1;0;1;Medellin;sin dato;Z4_R_39;330;Acuerdo 048 POT Medellin;18.55;6121;2020;513;6121;6121;6121;VOLADOR CENTRO;_;_;_;_
+2;1;1;Medellin;sin dato;Z3_MIE_4;30;Acuerdo 048 POT Medellin;0.62;19;2035;0;0;19;19;LOS MANGOS;_;_;_;_
+3;2;1;Medellin;sin dato;Z1_MIE_2;30;Acuerdo 048 POT Medellin;3.45;104;2035;0;0;104;104;LA MONTANA;_;_;_;_
+4;3;1;Medellin;sin dato;Z3_MIE_3;30;Acuerdo 048 POT Medellin;4.09;123;2035;0;0;123;123;LLANADITAS;_;_;_;_
+5;4;1;Medellin;sin dato;Z1_MIE_1;30;Acuerdo 048 POT Medellin;2.75;83;2035;0;0;83;83;LA MONTANA;VERSALLES 2;_;_;_
+6;5;1;Medellin;sin dato;Z3_R_17;290;Acuerdo 048 POT Medellin;10.96;3178;2035;0;0;1613;3178;GERONA;LIMONCITO;_;_;_
+7;6;1;Medellin;sin dato;Z3_R_17;290;Acuerdo 048 POT Medellin;5.5;1596;2035;0;0;1596;1596;LIMONCITO;MIRAFLORES;_;_;_
+8;7;1;Medellin;sin dato;Z3_R_17;290;Acuerdo 048 POT Medellin;14.33;4156;2035;0;0;1613;4156;GERONA;LIMONCITO;MIRAFLORES;_;_
+9;8;1;Medellin;sin dato;Z3_R_17;290;Acuerdo 048 POT Medellin;9.2;2667;2035;0;0;1613;2667;GERONA;LIMONCITO;_;_;_
+10;9;1;Girardota;Plan Parcial Las Ceibas;DE_1;120;Plan de desarrollo Alcaldia de Girardota y Vinculacion Cliente EPM;16.64;1566;2030;0;43;600;1240;EL TOTUMO;GIRARDOTA;_;_;_
+11;10;1;Girardota;Plan Parcial La Arboleda - Villa Esperanza;DE_2;120;Plan de desarrollo Alcaldia de Girardota y Vinculacion Cliente EPM;9.77;444;2020;64;444;444;444;EL TOTUMO;_;_;_;_
+12;11;1;Girardota;Plan Parcial Altos de la Virgen;DE_3;120;Plan de desarrollo Alcaldia de Girardota y Vinculacion Cliente EPM;22.49;1937;2025;0;612;1169;1809;EL TOTUMO;_;_;_;_
+13;12;1;Girardota;Santa Ana;DU_1;120;Plan de desarrollo Alcaldia de Girardota y Vinculacion Cliente EPM;2.19;267;2020;64;267;267;267;EL TOTUMO;_;_;_;_
+14;13;1;Girardota;Sin Especificar;DU_2;120;Plan de desarrollo Alcaldia de Girardota y Vinculacion Cliente EPM;1.73;208;2030;0;43;208;208;EL TOTUMO;_;_;_;_
+15;14;1;Bello;PP Serramonte y San Buenaventura. PUG Amazonia;sin codigo;70;Acuerdo 033 de 2009 POT Bello y Vinculacion Cliente EPM;80.04;580;2020;525;580;580;580;CASTILLA-BELLO;PEDREGAL;POTRERITO;_;_
+16;15;1;Bello;Expansion Guasimalito;sin codigo;1;Acuerdo 033 de 2009 POT Bello y Vinculacion Cliente EPM;131.64;25500;2025;0;2100;7466;12716;GUASIMALITO;LA TOLDA;_;_;_
+19;16;1;Barbosa;sin dato;U_DE_1;120;Acuerdo 021 PBOT Barbosa;19.15;2298;2020;44;777;1657;2298;BARBOSA;_;_;_;_
+20;17;1;Barbosa;sin dato;U_DE_1;15;Acuerdo 021 PBOT Barbosa;6.86;103;2020;44;103;103;103;BARBOSA;_;_;_;_
+26;18;1;Itagui;sin dato;ZE-D-01;120;POT de Itagui;22.83;2739;2020;221;2144;2739;2739;AJIZAL;EL RINCON;EL RODEO;_;_
+27;19;1;Itagui;sin dato;ZE-D-02;120;POT de Itagui;106.65;12798;2020;221;2144;4104;8468;AJIZAL;CAMPESTRE;EL RODEO;ITAGUI;MANZANILLO
+28;20;1;Caldas;sin dato;ZE1_D;150;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;9.56;1434;2023;0;416;700;992;LA TABLAZA;PARAISO;_;_;_
+29;21;1;Caldas;sin dato;ZE10_D;200;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.53;905;2025;0;170;454;746;PARAISO;_;_;_;_
+30;22;1;Caldas;sin dato;ZE11_D;150;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.8;719;2025;0;170;454;719;EXPANSION PARAISO;MANDALAI;_;_;_
+31;23;1;Caldas;sin dato;ZE2_D;120;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.46;894;2023;0;416;700;894;PARAISO;_;_;_;_
+32;24;1;Caldas;sin dato;ZE3A_D;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;8.6;2581;2023;0;416;700;992;LA TABLAZA;PARAISO;_;_;_
+33;25;1;Caldas;sin dato;ZE3B_D;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;18.52;5555;2025;0;170;454;746;PARAISO;_;_;_;_
+34;26;1;Caldas;sin dato;ZE3C_D;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.23;2170;2025;0;170;454;746;PARAISO;_;_;_;_
+35;27;1;Caldas;sin dato;ZE3D_D;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;17.04;5112;2025;0;170;454;746;CALDAS;PARAISO;_;_;_
+36;28;1;Caldas;sin dato;ZE4_D;250;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;25.1;6275;2025;0;170;454;746;PARAISO;PRIMAVERA;_;_;_
+37;29;1;Caldas;sin dato;ZE5_D;250;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;23.93;5982;2025;0;170;454;746;CALDAS;EXPANSION PARAISO;MANDALAI;PARAISO;_
+38;30;1;Caldas;sin dato;ZE6_D;150;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;23.14;3470;2025;0;170;454;746;PARAISO;PRIMAVERA;_;_;_
+39;31;1;Caldas;sin dato;ZE7_D;150;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;9.57;1434;2025;0;170;454;746;PRIMAVERA;_;_;_;_
+40;32;1;Caldas;sin dato;ZE8_D;40;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;395.91;15836;2025;0;170;454;746;CALDAS;PARAISO;PRIMAVERA;_;_
+41;33;1;Itagui;sin dato;ZU-D-01;120;POT de Itagui;40.73;4888;2020;221;2144;4104;4888;LA ESTRELLA;_;_;_;_
+43;34;1;Copacabana;Sin especificar;Sin codigo;10;Acuerdo N 025 de 2000_Copacabana;10.06;101;2020;3;25;65;101;COPACABANA;_;_;_;_
+44;35;1;Copacabana;Sin especificar;Sin codigo;10;Acuerdo N 025 de 2000_Copacabana;3.54;35;2020;3;25;35;35;;_;_;_;_
+45;36;1;Bello;Plan Parcial Los Sauces;C1_D_1 / C1_MI_1;70;Acuerdo 033 de 2009 POT Bello y Vinculacion Cliente EPM;43.94;5488;2020;525;5488;5488;5488;PARIS;_;_;_;_
+48;37;1;Medellin;Villa Carlota;Z5_RED_7;250;Dcto 605 de 2007;14.57;3642;2035;0;0;1613;3642;NUTIBARA;_;_;_;_
+49;38;1;Medellin;Simesa;Z5_RED_7;220;Dcto 124 de 2006;32.77;7209;2020;513;7209;7209;7209;NUTIBARA;_;_;_;_
+50;39;1;Medellin;La Cumbre;Z5_D_3_A;30;Dcto 1079 de 2007;48.33;1450;2020;513;1450;1450;1450;EL TESORO;LA ESMERALDA;LA YE;LAS BRISAS;_
+51;40;1;Medellin;Loma de los Gonzalez;Z5_CN2_18;75;Dcto 1204 de 2007;28.02;2102;2020;513;2102;2102;2102;EL TESORO;LOS PARRAS;_;_;_
+52;41;1;Medellin;Plaza de ferias;Z2_R_46;0;Dcto 1352 de 2002;30.65;0;2035;0;0;0;0;CASTILLA;CASTILLA-BELLO;_;_;_
+53;42;1;Medellin;San Lorenzo;Z3_R_6 Y Z3_CN2_12;310;Dcto 0608 de 2003;69.63;21585;2025;0;10181;21585;21585;GERONA;LOS PARRAS;NUTIBARA;ORFELINATO;_
+54;43;1;Medellin;Naranjal;Z4_R_37;-9999;Dcto 1284 de 2000;19.19;2054;2020;513;2054;2054;2054;NUTIBARA;_;_;_;_
+55;44;1;Medellin;Guayaquil Manzana;Z3_R_3;400;Dcto 1222 de 2005;0.83;331;2035;0;0;331;331;ORFELINATO;_;_;_;_
+56;45;1;Medellin;Guayaquil Poligono;Z3_R_16;400;Dcto 1179 de 2007;9.05;3618;2035;0;0;1613;3618;ORFELINATO;_;_;_;_
+60;46;1;Medellin;SA_D11;SA_D_11;100;Dcto 109 de 2007;4.75;475;2020;513;475;475;475;SAN ANTONIO DE PRADO;_;_;_;_
+61;47;1;Medellin;Loma de los Bernal;Z6_D_5;220;Dcto 1649 de 2003;13.44;2956;2020;513;2956;2956;2956;ALTAVISTA SUR;EL RODEO;_;_;_
+62;48;1;Medellin;Pajarito;Z2_DE_4;100;Dcto 602 de 2002;237.05;23704;2020;513;14703;23704;23704;AURES;CUCARACHO;HAMACAS;PAJARITO;PEDREGAL BAJO
+63;49;1;Medellin;Moravia;Z1_R_7;350;Dcto 1958 de 2006;45.69;15990;2025;0;10181;15990;15990;BATALLON;PINUELA;VILLA DEL SOCORRO;_;_
+64;50;1;Medellin;Ciudadela el Rincon;Z6_DE_1;220;Dcto 755 de 2007;34.31;7547;2020;513;7547;7547;7547;ALTAVISTA SUR;EL RINCON;EL RODEO;_;_
+65;51;1;Medellin;Santa Ines;SA_CN1_18;100;Dcto 1365 de 2007;6.85;685;2020;513;685;685;685;SAN ANTONIO DE PRADO;_;_;_;_
+66;52;1;Medellin;Sta. Maria de los Angeles;Z5_R_27;250;Dcto 1191 de 2007;8.07;2235;2020;513;2235;2235;2235;CAMPESTRE;_;_;_;_
+68;53;1;Medellin;Corazon de Jesus;Z3_R_15;400;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;26.44;10574;2035;0;0;1613;10574;NUTIBARA;ORFELINATO;_;_;_
+69;54;1;Medellin;Everfit;Z2_R_42;230;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;28.17;6480;2035;0;0;1613;6480;VOLADOR CENTRO;VOLADOR NORTE;_;_;_
+70;55;1;Medellin;Prado Centro;Z3_RED_2;300;Acuerdo 048 POT Medellin;15.9;4769;2035;0;0;1613;4769;BATALLON;ORFELINATO;_;_;_
+71;56;1;Medellin;Prado Centro;Z3_C;300;Acuerdo 048 POT Medellin;30.08;9025;2035;0;0;1613;9025;BATALLON;ORFELINATO;_;_;_
+72;57;1;Medellin;Sevilla;Z1_R_9;390;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;16.25;6336;2025;0;6336;6336;6336;BATALLON;_;_;_;_
+73;58;1;Medellin;La Asomadera;Z3_D_1;60;Acuerdo 048 POT Medellin;51.85;3111;2035;0;0;1613;3111;ASOMADERA;EL TESORO;LAS BRISAS;LOS PARRAS;_
+74;59;1;Medellin;San Lucas;Z5_D_3;30;Acuerdo 048 POT Medellin;11.66;350;2020;513;350;350;350;LA ESMERALDA;LA YE;_;_;_
+76;60;1;Medellin;El Vergel;SA_D_13;100;Acuerdo 048 POT Medellin;21.75;2175;2020;513;2175;2175;2175;SAN ANTONIO DE PRADO;_;_;_;_
+77;61;1;Medellin;Altos del Poblado;Z5_D_2;30;Acuerdo 048 POT Medellin;22.17;665;2035;0;0;665;665;EL TESORO;LAS BRISAS;_;_;_
+79;62;1;Medellin;La Florida;SA_DE_5;60;Acuerdo 048 POT Medellin;86.76;5206;2020;513;5206;5206;5206;NARANJITOS;SAN ANTONIO DE PRADO;SANTA CATALINA SUR;_;_
+80;63;1;Medellin;Sector Fuente Clara;Z2_D_6;100;Acuerdo 048 POT Medellin;22.98;2298;2035;0;0;1613;2298;CUCARACHO;PALENQUE;PORVENIR;_;_
+81;64;1;Medellin;Sector San Pedro;Z1_R_10;300;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;14.96;4488;2035;0;0;1613;4488;BATALLON;_;_;_;_
+82;65;1;Medellin;Estacion Villa;Z3_R_13;400;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;22.01;3600;2025;0;3600;3600;3600;ORFELINATO;_;_;_;_
+83;66;1;Medellin;Caribe;Z2_R_44;310;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;10.32;1692;2035;0;0;1613;1692;VOLADOR NORTE;_;_;_;_
+84;67;1;Medellin;Calle Nueva;Z3_R_19;390;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;26.62;5839;2035;0;0;1613;5839;NUTIBARA;ORFELINATO;_;_;_
+85;68;1;Medellin;La Bayadera;Z3_R_18;390;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;9.29;1656;2035;0;0;1613;1656;NUTIBARA;_;_;_;_
+86;69;1;Medellin;San Cristobal;SC_D_7;100;Acuerdo 048 POT Medellin;5.05;505;2035;0;0;505;505;SAN CRISTOBAL;_;_;_;_
+87;70;1;Medellin;Sector Eduardo Santos;Z4_DE_7;80;Acuerdo 048 POT Medellin;5.1;408;2035;0;0;408;408;CORAZON ALTO;SAN CRISTOBAL;_;_;_
+88;71;1;Medellin;Sector las Mercedes;Z6_DE_2;80;Acuerdo 048 POT Medellin;14.28;1143;2035;0;0;1143;1143;AGUAS FRIAS;ALTAVISTA CENTRO;EXPANSION OCCIDENTE 2;_;_
+89;72;1;Medellin;Sector Altavista;Z6_DE_6;50;Acuerdo 048 POT Medellin;18.79;940;2020;513;940;940;940;ALTAVISTA SUR;_;_;_;_
+90;73;1;Medellin;Sector la Colina;Z6_D_4;140;Acuerdo 048 POT Medellin;12.5;1749;2035;0;0;1613;1749;EL RINCON;EL RODEO;_;_;_
+91;74;1;Medellin;San Antonio;SA_D_8;60;Acuerdo 048 POT Medellin;2.87;172;2040;0;0;172;172;NARANJITOS;SAN ANTONIO DE PRADO;_;_;_
+92;75;1;Medellin;San Antonio;SA_D_9;100;Acuerdo 048 POT Medellin;7.68;768;2020;513;768;768;768;NARANJITOS;SAN ANTONIO DE PRADO;_;_;_
+93;76;1;Medellin;San Antonio;SA_D_10;60;Acuerdo 048 POT Medellin;16.75;1005;2020;513;1005;1005;1005;LA ESTRELLA;SAN ANTONIO DE PRADO;_;_;_
+94;77;1;Medellin;San Antonio;SA_D_12;60;Acuerdo 048 POT Medellin;5.34;320;2035;0;0;320;320;LA ESTRELLA;_;_;_;_
+95;78;1;Medellin;San Antonio;SA_D_14;60;Acuerdo 048 POT Medellin;8.54;513;2035;0;0;513;513;LA ESTRELLA;_;_;_;_
+96;79;1;Medellin;San Antonio;SA_D_15;60;Acuerdo 048 POT Medellin;3.09;185;2035;0;0;185;185;LA ESTRELLA;_;_;_;_
+97;80;1;Medellin;Subestacion EPM;Z6_R_29;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;34.48;6168;2035;0;0;1613;6168;CAMPESTRE;_;_;_;_
+98;81;1;Medellin;Guayabal Calle 10;Z6_R_30;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;53.62;9421;2035;0;0;1613;9421;CAMPESTRE;NUTIBARA;_;_;_
+99;82;1;Medellin;Argos;Z6_R_31;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;22.14;3565;2025;0;3565;3565;3565;CAMPESTRE;NUTIBARA;_;_;_
+100;83;1;Medellin;Cruz Roja;Z6_R_32;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;4.72;617;2035;0;0;617;617;NUTIBARA;_;_;_;_
+101;84;1;Medellin;Emtelco;Z6_R_33;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;13.08;1555;2035;0;0;1555;1555;NUTIBARA;_;_;_;_
+102;85;1;Medellin;Sector Tenche;Z6_RED_21;330;Acuerdo 048 POT Medellin;7.31;2411;2035;0;0;1613;2411;NUTIBARA;_;_;_;_
+103;86;1;Medellin;Colcafe;Z6_R_28;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;49.82;6405;2035;0;0;1613;6405;CAMPESTRE;_;_;_;_
+104;87;1;Medellin;La 30;Z6_R_35;310;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;11.97;38403;2035;0;0;1613;25229;NUTIBARA;_;_;_;_
+105;88;1;Medellin;Fiscalia;Z2_R_43;310;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;27.43;5470;2035;0;0;1613;5470;VOLADOR NORTE;_;_;_;_
+107;89;1;Medellin;Sector el Volador;Z2_RED_27;300;Acuerdo 048 POT Medellin;7.55;2265;2035;0;0;1613;2265;VOLADOR CENTRO;_;_;_;_
+108;90;1;Medellin;Andercol;Z2_R_45;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;7.62;1508;2035;0;0;1508;1508;CASTILLA;_;_;_;_
+110;91;1;Medellin;Sector Indural;Z2_RED_25;300;Acuerdo 048 POT Medellin;36.98;11094;2020;513;11094;11094;11094;PALENQUE;VOLADOR CENTRO;_;_;_
+112;92;1;Medellin;Altos de Calazans;Z4_DE_3;100;Dcto 397 de 2007;116.51;11651;2020;513;11651;11651;11651;CUCARACHO;PALENQUE;PORVENIR;SAN CRISTOBAL;_
+113;93;1;Medellin;Centralidad Zonal de Robledo;Z2_CN3_15;220;Acuerdo 048 POT Medellin;2.42;533;2035;0;0;533;533;PALENQUE;PORVENIR;_;_;_
+114;94;1;Medellin;San Benito;Z3_R_14;400;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;20.33;3446;2035;0;0;1613;3446;ORFELINATO;_;_;_;_
+116;95;1;Medellin;el tesoro;Z5_D3_B;30;Acuerdo 048 POT Medellin;11.46;344;2020;513;344;344;344;LA ESMERALDA;LA YE;_;_;_
+117;96;1;Envigado;El  Chocho;10-DES-25;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;11.34;340;2020;19;182;340;340;EL CHOCHO;LA ESMERALDA;_;_;_
+118;97;1;Envigado;Santa Catalina;10-DES-25;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.88;236;2020;19;182;236;236;EL CHOCHO;LA ESMERALDA;LA YE;_;_
+119;98;1;Envigado;CAMINO DE LAS AGUAS;10-DES-12;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;5.69;171;2022;0;144;171;171;AYURA;EL CAPIRO;_;_;_
+120;99;1;Envigado;ESCOBERO - SANTA CATALINA;10-DES-10;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;22.87;686;2020;19;182;399;686;AYURA;EL CHOCHO;LA ESMERALDA;_;_
+121;100;1;Envigado;SENDERO DE LA AYURA;10-DES-12;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;6.18;186;2022;0;144;186;186;AYURA;EL CAPIRO;EL CHOCHO;_;_
+122;101;1;Envigado;CHINGUI;10-DES-12;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;9.7;291;2020;19;182;291;291;AYURA;EL CHOCHO;_;_;_
+123;102;1;Envigado;ESCOBERO;10-DES-12;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;19.78;594;2020;19;182;399;594;EL CHOCHO;LA ESMERALDA;_;_;_
+124;103;1;Envigado;ORQUIDEAS;03-RED-11;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;5.41;1623;2020;19;182;399;783;CAMPESTRE;_;_;_;_
+125;104;1;Envigado;SALUD SUR;01-RED-02;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;2.94;883;2020;19;182;399;783;EL DORADO;_;_;_;_
+126;105;1;Envigado;PRIMAVERA;08-RED-09;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.96;588;2020;19;182;399;588;EL DORADO;_;_;_;_
+127;106;1;Envigado;LAS CASITAS;08-RED-10;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;5.22;1564;2020;19;182;399;783;EL DORADO;SABANETA;_;_;_
+128;107;1;Envigado;PAVEZGO;02-RED-03;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.54;462;2020;19;182;399;462;CAMPESTRE;_;_;_;_
+129;108;1;Envigado;PELDAR;01-RED-02;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;9.99;2997;2020;19;182;399;783;CAMPESTRE;EL DORADO;ITAGUI;_;_
+130;109;1;Envigado;NAVITRANS;01-RED-01;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;6.44;1930;2020;19;182;399;783;CAMPESTRE;LA ESTRELLA;_;_;_
+131;110;1;Envigado;ESTACION AYURA;01-RED-01;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.1;2130;2020;19;182;399;783;CAMPESTRE;_;_;_;_
+132;111;1;Envigado;PRADCO Y DIDACOL;01-RED-01;300;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.29;1285;2020;19;182;399;783;CAMPESTRE;_;_;_;_
+133;112;1;Envigado;ESCOBERO;10-DES-12;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.18;35;2020;19;35;35;35;EL CHOCHO;LA ESMERALDA;_;_;_
+134;113;1;Envigado;ESCOBERO;10-DES-12;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.86;146;2020;19;146;146;146;EL CHOCHO;LA ESMERALDA;_;_;_
+135;114;1;Envigado;EL VALLANO;11-DES-13;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;10.2;306;2022;0;144;306;306;EL CAPIRO;LA MINA;_;_;_
+137;115;1;Envigado;EL VALLANO;11-DES-13;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.05;122;2022;0;122;122;122;EL CAPIRO;_;_;_;_
+138;116;1;Envigado;EL VALLANO;11-DES-13;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.75;233;2022;0;144;233;233;EL CAPIRO;LA MINA;_;_;_
+139;117;1;Envigado;EL VALLANO;11-DES-13;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;8.14;244;2022;0;144;244;244;EL CAPIRO;_;_;_;_
+140;118;1;Envigado;sin dato;DES-02;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.71;847;2020;19;182;399;783;AYURA;_;_;_;_
+141;119;1;Envigado;sin dato;DES-02;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.75;315;2020;19;182;315;315;AYURA;_;_;_;_
+142;120;1;Envigado;sin dato;DES-15;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;5.02;150;2020;19;150;150;150;AYURA;LA ESMERALDA;_;_;_
+143;121;1;Envigado;sin dato;DES-15;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;3.81;114;2020;19;114;114;114;AYURA;LA ESMERALDA;_;_;_
+144;122;1;Envigado;sin dato;DES-15;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;23.03;691;2020;19;182;399;691;LA ESMERALDA;_;_;_;_
+145;123;1;Envigado;sin dato;DES-15;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;2.2;66;2020;19;66;66;66;AYURA;LA ESMERALDA;_;_;_
+146;124;1;Envigado;sin dato;DES-03;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;5.28;951;2020;19;182;399;783;AYURA;_;_;_;_
+147;125;1;Envigado;sin dato;DES-07;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.99;358;2020;19;182;358;358;AYURA;_;_;_;_
+148;126;1;Envigado;sin dato;DES-11;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;8.24;1483;2020;19;182;399;783;AYURA;EL CHOCHO;LAS BRUJAS;_;_
+149;127;1;Envigado;sin dato;DES-17;140;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;2.52;353;2022;0;144;353;353;AYURA;EL CAPIRO;_;_;_
+150;128;1;Envigado;sin dato;DES-08;140;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.87;262;2022;0;144;262;262;EL CAPIRO;_;_;_;_
+151;129;1;Envigado;sin dato;DES-08;140;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.61;646;2022;0;144;361;646;EL CAPIRO;LA MINA;_;_;_
+152;130;1;Envigado;sin dato;DES-14;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;2.46;442;2020;19;182;399;442;EL DORADO;LA ESTRELLA;LAS FLORES;_;_
+153;131;1;Envigado;sin dato;DES-26;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;3.82;687;2020;19;182;399;687;CUMBRES;EL CAPIRO;LAS FLORES;_;_
+154;132;1;Envigado;sin dato;DES-27;140;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.71;240;2022;0;144;240;240;EL CAPIRO;SAN RAFAEL;_;_;_
+155;133;1;Envigado;sin dato;DES-14;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;4.55;818;2022;0;144;361;745;EL CAPIRO;LAS BRUJAS;LAS FLORES;_;_
+156;134;1;Envigado;sin dato;DES-14;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.32;237;2020;19;182;237;237;LAS FLORES;_;_;_;_
+157;135;1;Envigado;sin dato;DES-08;140;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.18;166;2022;0;144;166;166;EL CAPIRO;_;_;_;_
+158;136;1;Envigado;sin dato;DES-14;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;0.84;151;2020;19;151;151;151;LAS FLORES;_;_;_;_
+159;137;1;Envigado;sin dato;LOS MESA;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;6.59;1186;2020;19;182;399;783;AYURA;_;_;_;_
+160;138;1;Envigado;sin dato;DES-07;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;2.79;503;2020;19;182;399;503;AYURA;_;_;_;_
+161;139;1;Envigado;sin dato;DES-15;30;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;2.02;61;2020;19;61;61;61;LA ESMERALDA;_;_;_;_
+162;140;1;Envigado;sin dato;DES-07;180;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.36;245;2020;19;182;245;245;AYURA;_;_;_;_
+163;141;1;La Estrella;EXP. SAN JOSE;ZE01 DE01;70;Acuerdo 42 PBOT_La_Estrella;74.54;5217;2020;320;1278;2202;4208;SANTA CATALINA SUR;_;_;_;_
+164;142;1;La Estrella;EXP. TABLAZA INDUSTRIAL;ZE05 DE05;120;Acuerdo 42 PBOT_La_Estrella;76.5;9179;2023;0;639;1563;3569;LA TABLAZA;PAN DE AZUCAR;PUEBLO VIEJO;_;_
+166;143;1;La Estrella;EXP. JUAN XXIII;ZE07 DE07;120;Acuerdo 42 PBOT_La_Estrella;4.69;562;2023;0;562;562;562;LA TABLAZA;_;_;_;_
+167;144;1;La Estrella;EXP. ANCON SUR;ZE04 DE04;120;Acuerdo 42 PBOT_La_Estrella;13.75;1650;2023;0;639;1563;1650;LA ESTRELLA;_;_;_;_
+167;145;1;La Estrella;EXP. ANCON SUR;ZE04 DE04;120;Acuerdo 42 PBOT_La_Estrella;13.75;1650;2023;0;639;1563;1650;LA ESTRELLA;_;_;_;_
+168;146;1;La Estrella;EXP. LA TABLAZA;ZE06 DE06;70;Acuerdo 42 PBOT_La_Estrella;22.39;1567;2023;0;639;1563;1567;LA TABLAZA;PARAISO;_;_;_
+169;147;1;La Estrella;EXP. QUEBRADA GRANDE;ZE02 DE02;70;Acuerdo 42 PBOT_La_Estrella;34.2;2394;2020;320;1278;2202;2394;LA ESTRELLA;_;_;_;_
+172;148;1;La Estrella;EXP. PUEBLO VIEJO;ZE03 DE03;70;Acuerdo 42 PBOT_La_Estrella;75.85;5309;2023;0;639;1563;3569;PUEBLO VIEJO;_;_;_;_
+173;149;1;Sabaneta;Ancon;DE1_1;65;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.59;2650;2020;433;2650;2650;2650;PAN DE AZUCAR;SABANETA;_;_;_
+174;150;1;Sabaneta;Caminos de La Romera;DE1_8;100;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;61.26;1318;2020;433;1318;1318;1318;CUMBRES;SABANETA;_;_;_
+175;151;1;Sabaneta;Asdesilla;CN2_8;220;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;5.9;1690;2025;0;1690;1690;1690;CUMBRES;LAS FLORES;_;_;_
+176;152;1;Sabaneta;Casa Sabaneta;DE1_5;65;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;16.24;3609;2023;0;3609;3609;3609;CUMBRES;PAN DE AZUCAR;SABANETA;_;_
+177;153;1;Sabaneta;La Macana;DE1_4;40;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;35.35;3000;2020;433;3000;3000;3000;;_;_;_;_
+177;154;1;Sabaneta;La Macana;DE1_4;40;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;35.35;3000;2020;433;3000;3000;3000;;_;_;_;_
+178;155;1;Sabaneta;Sabaneta Real;CN1_3;290;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;7.25;3008;2020;433;3008;3008;3008;SABANETA;_;_;_;_
+179;156;1;Sabaneta;San Expedito;DE1_2;65;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;6.17;1328;2020;433;1328;1328;1328;PAN DE AZUCAR;SABANETA;_;_;_
+1800;157;1;Sabaneta;Santa Ana;DE1_9;40;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;13.8;2387;2025;0;2387;2387;2387;CUMBRES;_;_;_;_
+180;158;1;Sabaneta;Santa Ana;DE1_9;40;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;19.55;2000;2025;0;2000;2000;2000;CUMBRES;SABANETA;_;_;_
+181;159;1;Sabaneta;Villa Paula;DE1_6;40;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;13.88;3080;2020;433;3080;3080;3080;CUMBRES;LAS FLORES;_;_;_
+182;160;1;Sabaneta;La Cumbre;DE1_3;6;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;3.2;500;2025;0;500;500;500;PAN DE AZUCAR;_;_;_;_
+183;161;1;Sabaneta;Calle del Banco;CN1_2;290;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.92;471;2025;0;471;471;471;SABANETA;_;_;_;_
+184;162;1;Sabaneta;Kandala;CN2_8;220;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;0.49;156;2025;0;156;156;156;LAS FLORES;SABANETA;_;_;_
+185;163;1;Sabaneta;El Pegujal;CN2_8;220;Plan Basico de Ordenamiento Territorial Modif. Excep. 2019;1.86;520;2025;0;520;520;520;SABANETA;_;_;_;_
+186;164;1;Medellin;Playon;Z1_R_1;320;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;2.32;49;2035;0;0;49;49;VILLA DEL SOCORRO;_;_;_;_
+187;165;1;Medellin;La Frontera;Z1_R_2;320;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;4.02;346;2035;0;0;346;346;VILLA DEL SOCORRO;_;_;_;_
+188;166;1;Medellin;La Francia;Z1_R_3;320;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;5.29;754;2035;0;0;754;754;VILLA DEL SOCORRO;_;_;_;_
+189;167;1;Medellin;Andalucia;Z1_R_4;320;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;3.61;343;2035;0;0;343;343;VILLA DEL SOCORRO;_;_;_;_
+190;168;1;Medellin;Villa Niza;Z1_R_5;320;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;13.6;1516;2035;0;0;1516;1516;VILLA DEL SOCORRO;_;_;_;_
+191;169;1;Medellin;Palermo;Z1_R_6;320;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;15.27;1103;2035;0;0;1103;1103;PINUELA;VILLA DEL SOCORRO;_;_;_
+192;170;1;Medellin;Miranda;Z1_R_8;300;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;10.82;1624;2035;0;0;1613;1624;PINUELA;_;_;_;_
+193;171;1;Medellin;Carabineros;Z2_R_48;330;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;13.2;3966;2035;0;0;1613;3966;CASTILLA-BELLO;_;_;_;_
+194;172;1;Medellin;La Candelaria;Z2_R_49;350;Acuerdo 048 POT Medellin;5.61;1199;2035;0;0;1199;1199;PALENQUE;VOLADOR CENTRO;VOLADOR NORTE;_;_
+195;173;1;Medellin;sin dato;Z3_R_11;390;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;20.32;7923;2025;0;7923;7923;7923;BATALLON;ORFELINATO;_;_;_
+196;174;1;Medellin;sin dato;Z3_R_12;390;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;22.89;8927;2035;0;0;1613;8927;BATALLON;ORFELINATO;_;_;_
+197;175;1;Medellin;Perpetuo Socorro;Z3_R_21;330;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;62.41;12911;2025;0;10181;12911;12911;LOS PARRAS;NUTIBARA;_;_;_
+198;176;1;Medellin;Makro;Z4_R_38;330;Gaceta Oficial ano XXII No 4348 Acuerdo No5 / 1987;19.04;3790;2020;513;3790;3790;3790;NUTIBARA;_;_;_;_
+199;177;1;Medellin;Punto Clave;Z5_R_22;330;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;47.71;8303;2035;0;0;1613;8303;CAMPESTRE;LOS PARRAS;NUTIBARA;_;_
+200;178;1;Medellin;Dian;Z5_R_24;250;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;14.08;2554;2035;0;0;1613;2554;CAMPESTRE;NUTIBARA;_;_;_
+201;179;1;Medellin;Vegas Calle 10;Z5_R_25;250;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;6.56;1172;2035;0;0;1172;1172;CAMPESTRE;NUTIBARA;_;_;_
+202;180;1;Medellin;Patio Bonito;Z5_R_26;250;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;22.15;2594;2035;0;0;1613;2594;CAMPESTRE;NUTIBARA;_;_;_
+203;181;1;Medellin;Tenche;Z6_R_34;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;15.84;2067;2035;0;0;1613;2067;NUTIBARA;_;_;_;_
+204;182;1;Medellin;Guayabal;Z6_R_47;310;Gaceta Oficial ano XXII No 4352 acuerdo 5 / 1987;36.36;4506;2035;0;0;1613;4506;CAMPESTRE;EL RODEO;_;_;_
+46;183;1;Bello;Zona de Expansion Parque Montana 2023;Desconocido;0;null;10;16000;2023;0;3150;8516;13766;PARQUE MONTANA;_;_;_;_
+1900;184;1;Itagui;Plan Parcial Coltejer;sin dato;120;49% Viviendas 51% otros Usos;23;4490;2025;0;1038;2997;4490;ITAGUI;_;_;_;_
